@@ -6,6 +6,7 @@ Color colorBlack = Color(0xff000000);
 Color colorWith = Color(0xffFFFFFF);
 Color colorOrange = Color(0xffDE0046);
 Color colorYellow = Color(0xffF7A34B);
+Color colorGereyy = Color(0xffDEDFE1);
 
 //FONT WEIGHT
 FontWeight light = FontWeight.w300;
